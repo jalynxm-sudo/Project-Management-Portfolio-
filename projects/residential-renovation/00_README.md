@@ -1,59 +1,131 @@
 # Residential Kitchen Renovation
+### Project Management Case Study | Construction Planning | Creative Design
 
-## Project Overview
+> A simulated residential renovation project demonstrating how project management tools can organize scope, schedule, budget, risks, stakeholder communication, and design decisions.
 
-This project is a simulated residential kitchen renovation developed to demonstrate project management planning, construction coordination, and creative design development.
+**Project Type:** Residential Renovation  
+**Role:** Project Manager — Simulated Case Study  
+**Project Phase:** Planning  
+**Tools:** GitHub, Markdown, Project Planning Documents  
+**Project Status:** Planning artifacts developed; no actual construction performed.
 
-The project focuses on improving kitchen functionality, storage, layout, and visual appearance while maintaining alignment with homeowner requirements, project scope, schedule, and budget considerations.
+---
 
-The case study will demonstrate how project management principles can be applied to a residential renovation from initial planning through project closeout.
+## Project at a Glance
 
-## Project Objectives
+| Project Element | Overview |
+|---|---|
+| Project Goal | Plan a functional, updated residential kitchen |
+| Project Focus | Scope, scheduling, budget, risks, and coordination |
+| Estimated Budget | $42,350 — preliminary illustrative estimate |
+| Schedule | Preliminary schedule; duration requires validation |
+| Stakeholders | Homeowner, project manager, contractor, suppliers |
+| Key Constraint | Estimates, site conditions, and material availability require validation |
 
-- Define homeowner requirements and renovation priorities.
-- Establish project scope and boundaries.
-- Develop a preliminary project schedule.
-- Identify budget categories and assumptions.
-- Identify stakeholders and project responsibilities.
-- Assess project risks and mitigation strategies.
-- Develop a kitchen design concept.
-- Create architectural 3D visualization to communicate the proposed design.
+*The project is fictional. Budget figures are illustrative rather than verified contractor quotes.*
 
-## Project Approach
+---
 
-**Project Type:** Residential Construction / Kitchen Renovation
+## Project Vision
 
-**Project Management Approach:** Predictive / Waterfall
+The objective is to plan a kitchen renovation that balances functionality, appearance, material selection, and budget considerations.
 
-**Project Status:** Planning
+The planning process considers how design decisions affect procurement, installation sequencing, cost, and schedule. It also establishes a structured approach for documenting changes and communicating project information to stakeholders.
 
-**Project Role:** Project Manager (Simulated)
+## Project Lifecycle
 
-**Project Documentation:** Portfolio Case Study
+The project is organized into five major stages:
 
-## Project Deliverables
+**1. Define** → Establish homeowner requirements, project objectives, and scope.
 
-1. Project Charter
-2. Homeowner Requirements
-3. Project Scope Statement
-4. Work Breakdown Structure
-5. Preliminary Project Schedule
-6. Preliminary Budget
-7. Stakeholder Communication Plan
-8. Risk Register
-9. Kitchen Design Concept
-10. Architectural 3D Visualization
-11. Project Status Report
-12. Project Closeout Summary
+**2. Plan** → Develop the work breakdown structure, preliminary schedule, and budget.
 
-## Project Disclaimer
+**3. Coordinate** → Identify procurement dependencies, stakeholders, risks, and decisions.
 
-This is a simulated project developed for professional portfolio purposes. It does not represent a completed client renovation or actual construction work.
+**4. Monitor** → Track potential changes, review project status, and document follow-up actions.
 
-Project estimates, requirements, and assumptions will be identified as preliminary until supported by appropriate information.
+**5. Close Out** → Plan for final inspections, deficiency resolution, documentation, and project handover.
 
-## Current Status
+These stages represent the proposed project approach, not completed construction activities.
 
-**Phase:** Project Initiation and Planning
+---
 
-**Next Deliverable:** Project Charter
+## Budget Snapshot
+
+| Category | Illustrative Estimate |
+|---|---:|
+| Direct Project Costs | $38,500 |
+| Contingency Allowance | $3,850 |
+| **Total Preliminary Budget** | **$42,350** |
+
+The contingency allowance is 10% of the illustrative direct project costs. Actual pricing would require site assessment, supplier pricing, and contractor estimates.
+
+See the [Project Budget](05_project-budget.md) for the category-by-category breakdown.
+
+## Project Management Priorities
+
+| Priority | Management Approach |
+|---|---|
+| Scope Control | Document requirements and evaluate proposed changes |
+| Schedule Coordination | Identify dependencies, procurement needs, and timing constraints |
+| Budget Management | Track estimates, cost changes, and contingency assumptions |
+| Risk Management | Identify potential problems and plan responses |
+| Stakeholder Communication | Document decisions, responsibilities, and follow-up actions |
+| Quality and Closeout | Plan for inspections, deficiency tracking, and handover |
+
+---
+
+## Case Study Documents
+
+### Project Foundation
+
+- [Project Charter](project-charter.md) — objectives, purpose, and project boundaries
+- [Homeowner Requirements](homeowner-requirements.md) — initial needs and expectations
+- [Work Breakdown Structure](work-breakdown-structure.md) — project activities organized into manageable work packages
+
+### Planning and Controls
+
+- [Project Schedule](project-schedule.md) — preliminary phases and sequencing
+- [Project Budget](05_project-budget.md) — illustrative cost estimates and contingency
+- [Risk Register](06_risk-register.md) — potential risks and response strategies
+- [Change Request Log](07_change-request-log.md) — proposed changes and evaluation process
+
+### Communication and Reporting
+
+- [Project Status Report](08_project-status-report.md) — project health and next steps
+- [Project Meeting Agenda](09_project-meeting-agenda.md) — meeting structure and discussion priorities
+- [Project Meeting Notes](10_project-meeting-notes.md) — simulated decisions, open questions, and action items
+
+---
+
+## Future Design and Visualization Development
+
+A future development stage may incorporate architectural visualization from Blender, including:
+
+- Kitchen layout concepts
+- Cabinetry and storage arrangements
+- Material and finish studies
+- Lighting concepts
+- Three-dimensional spatial visualization
+
+These elements will be added as they are developed. They are not presented as completed design deliverables at this stage.
+
+## Skills Demonstrated
+
+- Project scope definition
+- Work breakdown structure development
+- Preliminary scheduling
+- Budget estimation and contingency planning
+- Risk identification and mitigation planning
+- Change control
+- Stakeholder communication
+- Status reporting
+- Project documentation and organization
+
+## Project Reflection
+
+This case study demonstrates how structured project documentation can support planning and coordination before work begins.
+
+It also provides a foundation for connecting project management with construction design and architectural visualization as additional deliverables are developed.
+
+**Transparency Statement:** This is a self-directed, simulated portfolio project. It does not represent a paid client engagement, actual construction management, verified contractor pricing, or a completed renovation.
