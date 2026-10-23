@@ -184,3 +184,4 @@ The renovation should deliver a kitchen concept that:
 The Work Breakdown Structure will organize the renovation into manageable phases, activities, and deliverables.
 
 **Portfolio Disclaimer:** This is a simulated project. Homeowner requirements and existing conditions are fictional planning assumptions.
+  
