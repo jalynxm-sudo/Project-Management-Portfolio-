@@ -1,54 +1,93 @@
-# Project Management Portfolio
+# Project Management & Creative Design Portfolio
 
-**Project Management | Agile Product Development | Operations Improvement**
+**Construction Project Management | Architectural Visualization | 3D Modeling | Creative Design**
 
-Welcome to my project management portfolio. This portfolio documents my developing skills in project planning, stakeholder communication, risk management, Agile practices, workflow coordination, and continuous improvement.
+Welcome to my professional portfolio.
 
-## About Me
+I am developing my career at the intersection of construction, project management, architectural visualization, and creative design.
 
-I am building my career in project management and operations, combining structured project management training with transferable experience in customer service, operational coordination, and team support.
+My interests include construction project coordination, architectural 3D modeling, architectural visualization, BIM / VDC modeling, and the creative development of residential and built-environment projects.
 
-My approach focuses on understanding stakeholder needs, organizing work, identifying risks, communicating clearly, and creating processes that support both business objectives and the people responsible for delivering them.
+I enjoy combining structured project management practices with creative problem-solving to transform ideas into organized plans, visual concepts, and thoughtfully developed project experiences.
+
+This portfolio showcases my developing skills in project planning, scope management, scheduling, stakeholder coordination, risk assessment, resource planning, visual design, and architectural 3D modeling.
+
+My approach focuses on understanding project requirements, organizing work, communicating ideas clearly, and exploring how creative visualization can support project planning, design development, and the built environment.
 
 ## Featured Projects
 
-### 1. Virtual Verde — Plant-Care Product Project
-**Project type:** Coursework / simulated product project
+### Residential Kitchen Renovation
+**Project type:** Independent project simulation
 
-Focus areas: Agile, user stories, prioritization, acceptance criteria, customer needs.
+A hypothetical residential renovation project demonstrating project planning, scope definition, scheduling, risk management, resource planning, and quality management.
 
-[View Project](./projects/virtual-verde/README.md)
+The project will also explore architectural visualization and creative design presentation to communicate renovation concepts and spatial ideas.
 
-### 2. Residential Renovation Project Plan
-**Project type:** Independent simulation
-
-Focus areas: Scope, scheduling, budgeting, dependencies, risk management, quality planning.
+**Status:** Planning
 
 [View Project](./projects/residential-renovation/README.md)
 
-### 3. Small Business Operations Improvement
-**Project type:** Independent case study
+### Architectural 3D Modeling & Visualization
+**Project type:** Independent creative project
 
-Focus areas: Workflow analysis, process improvement, implementation planning, performance measures.
+Developing architectural concepts and 3D visualizations to explore spatial design, building form, interior layouts, materials, lighting, and visual presentation.
 
-[View Project](./projects/operations-improvement/README.md)
+**Status:** In development
 
-## Skills Demonstrated
+### Project Management & Operations
+**Project type:** Coursework and independent projects
 
+Documentation demonstrating project planning, stakeholder communication, workflow coordination, risk management, and process improvement.
+
+## Skills and Areas of Development
+
+### Project Management
 - Project planning and documentation
-- Stakeholder identification and communication
+- Scope definition and requirements
+- Work breakdown structures
+- Scheduling and task dependencies
+- Stakeholder communication
 - Risk and issue management
-- Agile and Scrum fundamentals
-- User stories and acceptance criteria
-- Task and workflow coordination
 - Resource and budget planning
-- Process improvement and quality planning
-- Project reporting and lessons learned
+- Quality planning
+- Project reporting
 
-## Portfolio Standards
+### Construction and Built Environment
+- Residential renovation planning
+- Construction project coordination
+- Design and construction workflow awareness
+- Project documentation
+- Spatial planning and design exploration
+- Construction-related project visualization
 
-Coursework, simulations, and independent projects are labeled according to their actual context. Projected outcomes are distinguished from measured results. Any future client or employer work will be shared only when appropriate authorization has been obtained.
+### Creative Design and Visualization
+- Architectural 3D modeling
+- Architectural visualization
+- Interior and spatial design exploration
+- Creative direction
+- Visual storytelling
+- 3D presentation and rendering
+- Design concept development
 
-## Future Development
+### BIM / VDC and Technical Development
+- Building Information Modeling (BIM) fundamentals
+- Virtual Design and Construction (VDC) concepts
+- Architectural modeling workflows
+- Design coordination concepts
+- Developing technical modeling capabilities
 
-This portfolio will expand as I complete additional training, build practical experience, and develop projects in project management, operations, product ownership, and construction.
+## Portfolio Approach
+
+This portfolio combines project management documentation with creative design and visualization.
+
+Projects may include coursework, independent simulations, architectural concepts, 3D models, and future professional work.
+
+Each project will identify its actual context, my contribution, the tools used, the deliverables created, and whether outcomes were measured or projected.
+
+Technical capabilities will be represented accurately according to my developing experience and completed work.
+
+## Portfolio Development
+
+This portfolio will grow as I complete my Google Project Management Certificate, develop construction-related project planning experience, expand my architectural modeling and visualization skills, and explore opportunities across construction, design, and the built environment.
+
+My goal is to demonstrate how project management, creative thinking, and visual communication can work together to support thoughtful project development and delivery.
